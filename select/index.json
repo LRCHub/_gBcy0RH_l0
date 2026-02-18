@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "クラシック",
+  "base_artist": "Judy & Mary",
+  "createdAt": "2026-02-18T07:50:07.960511Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "クラシック",
+      "artist": "JUDY AND MARY",
+      "has_synced": true,
+      "path": "select/01_クラシック_JUDY_AND_MARY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "クラシック",
+      "artist": "JUDY AND MARY",
+      "has_synced": true,
+      "path": "select/02_クラシック_JUDY_AND_MARY.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "クラシック (Backing Track)",
+      "artist": "JUDY AND MARY",
+      "has_synced": false,
+      "path": "select/03_クラシック_(Backing_Track)_JUDY_AND_MARY.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "クラシック",
+      "artist": "JUDY AND MARY",
+      "has_synced": false,
+      "path": "select/pl_01_クラシック_JUDY_AND_MARY.txt"
+    }
+  ]
+}
